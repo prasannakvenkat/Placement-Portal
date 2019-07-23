@@ -1,0 +1,14 @@
+  body {
+      position: relative; 
+  }
+  
+  #section1 {padding-top:100px;height:400px;color:#e19139; text-align: center;}
+  #amazon {padding-top:50px;height:500px;color: #000; background-color: #C2FE76;}
+  #cisco {padding-top:50px;height:500px;color: #fff; background-color:#8F9875;}
+  #codenation {padding-top:50px;height:500px;color: #fff; background-color: #6EB2FF;}
+  #mad {padding-top:50px;height:500px;color: #000; background-color: #FFE76E;}
+  #ourfooter{background-color: #071310;color: #fff;text-align: center;}
+  #item{color: #384759}
+
+  .navbar-header{ width: 80px; height: 80px;}
+  body {font-family: Verdana, sans-serif; margin:0}
