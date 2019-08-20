@@ -1,0 +1,4 @@
+<!ELEMENT College (CollegeName,Description,Expenses)>
+<!ELEMENT CollegeName>
+<!ELEMENT Description>
+<!ELEMENT Expenses>

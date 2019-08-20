@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!ELEMENT Exam(CourseName,Coaching,Location,ContactNo,Date)>
+<!ELEMENT CourseName>
+<!ElEMENT Coaching>
+<!ELEMENT Location>
+<!ELEMENT ContactNo>
+<!ELEMENT Date>

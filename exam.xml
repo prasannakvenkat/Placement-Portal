@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+	<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="Exam">
+  	<xs:complexType>
+    	<xs:sequence>
+      	<xs:element name="CourseName" type="xs:string"/>
+	    <xs:element name="Coaching" type="xs:string"/>
+	    <xs:element name="Location" type="xs:string"/>
+	    <xs:element name="ContactNo" type="xs:int"/>
+	    <xs:element name="Date" type="xs:date"/>
+    	</xs:sequence>
+   	</xs:complexType>
+    </xs:element>
+	</xs:schema>
